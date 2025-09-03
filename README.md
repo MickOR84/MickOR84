@@ -11,7 +11,7 @@ In recent months I have gained proficiency in Excel, Tableau, Power BI, SQL, Pyt
 I am highly motivated to become established and grow as a data professional, eager to contribute within an organisation that values innovation, development, excellence, and continual improvement, whilst bringing insight, rigour, and a commitment to exceeding expectations.
 
 * 🌍  I'm based in Sunderland, Tyne & Wear, UK
-* 🖥️  See my portfolio at [https://github.com/MickOR84](http://github.com/MickOR84)
+* 🖥️  See my portfolio at [http://github.com/MickOR84](https://sites.google.com/view/michaeloreillymyportfolio/home))
 * ✉️  You can contact me at [mickor1984@googlemail.com](mailto:mickor1984@googlemail.com)
 * 🧠  I'm currently learning Seaborn in Python
 * 👥  I'm looking to collaborate on Data analysis and psychological research
